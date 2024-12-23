@@ -1,6 +1,6 @@
 # Markdown Editor
 
-![Markdown Editor Preview](https://user-images.githubusercontent.com/123456789/preview.png)
+![Markdown Editor Preview](./markdown-editor-preview.pngmarkdown)
 
 ## Overview
 
