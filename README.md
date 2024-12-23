@@ -1,6 +1,6 @@
 # Markdown Editor
 
-![Markdown Editor Preview](./markdown-editor-preview.pngmarkdown)
+![Markdown Editor Preview](./markdown-editor-preview.png)
 
 ## Overview
 
